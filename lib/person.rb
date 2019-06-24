@@ -1,8 +1,7 @@
-class Person (name)
-  
+class Person
 end
 
-Person.new(adele_goldberg)
-Person.new(alan_kay)
+adele_goldberg = Person.new
+Person.ne(alan_kay)
 
 
